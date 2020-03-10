@@ -5,6 +5,7 @@ header,
     height: 100%;
 }
 
+/* change background image */
 #intro {
     background: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img%20%283%29.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
