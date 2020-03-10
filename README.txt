@@ -1,3 +1,6 @@
+Using MDB I am making a portfolio website, I started out using a cover page template and will be expanding upon it to add individual pages for projects
+
+
 Material Design for Bootstrap
 Version: MDB FREE 4.14.0
 
