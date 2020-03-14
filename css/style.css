@@ -15,15 +15,23 @@ header,
 }
 
 .top-nav-collapse {
-    background-color: #24355C;
+    background-color: #4b4b4b;
   }
   @media (max-width: 768px) {
     .navbar:not(.top-nav-collapse) {
-      background-color: #24355C;
+      background-color: #4b4b4b;
     }
   }
   @media (min-width: 800px) and (max-width: 850px) {
     .navbar:not(.top-nav-collapse) {
-      background-color: #24355C;
+      background-color: #4b4b4b;
     }
   }
+
+  /* #intro-resume {
+    background: url("/images/Helmet_p1.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} */
